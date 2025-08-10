@@ -1,4 +1,4 @@
-# CTOtalk - Event Management Platform
+# CTOtalk - Events Platform
 
 A full-stack CTOtalk website, built using **React (Vite)**, **Tailwind CSS**, **Node.js**, **Express.js**, and **MySQL**.  
 The project replicates core functionalities of CTOtalk, including event listing, registration, user authentication, and real-time event status updates.
